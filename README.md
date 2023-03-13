@@ -1,4 +1,4 @@
-# Merge-Short
+# Merge-Sort
 PatikaProje2
 
 # Merge Sort Projesi
